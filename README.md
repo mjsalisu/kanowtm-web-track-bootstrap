@@ -1,4 +1,4 @@
-# Kano Women Techmakers - Web Track (Intermediate Level) - Bootstrap (BS)
+## Kano Women Techmakers - Web Track (Intermediate Level) - Bootstrap (BS)
 Contributing (adding your work/code) to this repo (a 5 minute read)
 
 ## Getting started:
