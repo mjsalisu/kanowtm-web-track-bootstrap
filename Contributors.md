@@ -1,1 +1,2 @@
 - [Jamilu Salisu](https://github.com/jamilusalism)
+- [Hauwa'u Jibril Ibrahim](https://github.com/hauwajibrilibrahim)
