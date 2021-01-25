@@ -1,2 +1,3 @@
 - [Jamilu Salisu](https://github.com/jamilusalism)
 - [Hauwa'u Jibril Ibrahim](https://github.com/hauwajibrilibrahim)
+- [Hafsah Balarabe Bello](https://github.com/Hafsah-eng)
